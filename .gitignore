@@ -1,0 +1,6 @@
+.venv/
+.env
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+Cancer Prediction Project 1.ipynb
