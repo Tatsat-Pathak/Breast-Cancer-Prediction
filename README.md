@@ -1,4 +1,4 @@
-# Cancer Prediction
+# Breast Cancer Prediction
 
 Binary classification: predict whether a breast tumour is **benign or malignant** from 30 measurements of cell nuclei.
 
